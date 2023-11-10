@@ -9,6 +9,10 @@
     <a href="https://github.com/CodeEventHorizon"><img width="50%" src="https://github-readme-stats-two-delta-92.vercel.app/api/top-langs/?username=CodeEventHorizon&theme=dark&hide=html,css,cmake,shaderlab,php&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
 </p>
 <br />
+<p align="center">
+    <a href="https://github.com/CodeEventHorizon"><img width="50%" src="https://github-readme-stats-two-delta-92.vercel.app/api?username=CodeEventHorizon&show_icons=true&include_all_commits=true&theme=dark&bg_color=101010&hide_title=true"></a>
+</p>
+<br />
 <!--<details>
     <summary>
         🧠 My Skills ...
