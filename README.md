@@ -10,9 +10,9 @@
 
 | Github Stats |
 | -- |
-| ![CodeEventHorizon Github Languages](https://github-readme-stats-two-delta-92.vercel.app/api/top-langs/?username=CodeEventHorizon&theme=dark&hide=html,scss,css,cmake,shaderlab,php&layout=compact&langs_count=6&bg_color=101010&hide_title=true&card_width=500) |
-| ![CodeEventHorizon GitHub Stats](https://github-readme-stats-two-delta-92.vercel.app/api?username=CodeEventHorizon&show_icons=true&include_all_commits=true&theme=dark&bg_color=101010&hide_title=true&card_width=500) |
-| ![CodeEventHorizon Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeEventHorizon&theme=dark&bg_color=101010&card_width=500) |
+| ![CodeEventHorizon Github Languages](https://github-readme-stats-two-delta-92.vercel.app/api/top-langs/?username=CodeEventHorizon&hide=html,scss,css,cmake,shaderlab,php&layout=compact&langs_count=6&hide_title=true&card_width=500&theme=radical) |
+| ![CodeEventHorizon GitHub Stats](https://github-readme-stats-two-delta-92.vercel.app/api?username=CodeEventHorizon&show_icons=true&include_all_commits=true&hide_title=true&card_width=500&theme=radical) |
+| ![CodeEventHorizon Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeEventHorizon&bg_color=101010&card_width=500&theme=radical) |
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
