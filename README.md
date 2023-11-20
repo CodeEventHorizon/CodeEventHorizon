@@ -2,13 +2,12 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Back-end+Developer;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
-<br />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Github Stats
+### Github Stats
 | ![CodeEventHorizon Github Languages](https://github-readme-stats-two-delta-92.vercel.app/api/top-langs/?username=CodeEventHorizon&theme=dark&hide=html,scss,css,cmake,shaderlab,php&layout=compact&langs_count=6&bg_color=101010&hide_title=true) | ![CodeEventHorizon GitHub Stats](https://github-readme-stats-two-delta-92.vercel.app/api?username=CodeEventHorizon&show_icons=true&include_all_commits=true&theme=dark&bg_color=101010&hide_title=true) |
 | -- | -- |
 
@@ -16,7 +15,7 @@
 <!--- -- Skilss -------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Skills
+### Skills
 | Category        | Skills        |
 |-----------------|---------------|
 | Languages        | Javascript, TypeScript, Java, Python | <!-- PHP, C++, C#, GO, Data Structures & Algorithms -->
