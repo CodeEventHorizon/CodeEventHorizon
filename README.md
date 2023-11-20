@@ -33,7 +33,8 @@
 | Other            | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
 <!-- | Testing     | | Cypress, Mocha, Jest -->
 
-👥 Visitors: ![Visitor Count](https://profile-counter.glitch.me/CodeEventHorizon/count.svg)
+### Visitors: 
+![Visitor Count](https://profile-counter.glitch.me/CodeEventHorizon/count.svg)
 <!--<details>
     <summary>
         🧠 My Skills ...
